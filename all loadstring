@@ -1,1 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qq2ne/rblx-scripts/main/outfit%20loader%20n%20fps.lua"))() -- Outfit Loader
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qq2ne/rblx-scripts/main/fps-ping%20counter.lua"))() -- fps,ping counter
